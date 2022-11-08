@@ -1,0 +1,647 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario Outline",
+      "location": "features/ElecrProduct.feature:20",
+      "name": "Verify section in Electronics product -- @1.1 ",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/ElecrProduct.feature:3",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:7"
+          },
+          "name": "we navigate to Flipkart url",
+          "result": {
+            "duration": 44.34378743171692,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "number",
+                "value": "6266739954"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:13"
+          },
+          "name": "we type in the \"6266739954\" edit box",
+          "result": {
+            "duration": 10.119733095169067,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:5",
+          "match": {
+            "arguments": [
+              {
+                "name": "password",
+                "value": "Rudresh@123"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:18"
+          },
+          "name": "we type in the \"Rudresh@123\" field",
+          "result": {
+            "duration": 10.103240013122559,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:23"
+          },
+          "name": "we click on the login button",
+          "result": {
+            "duration": 5.079289197921753,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:7",
+          "match": {
+            "arguments": [
+              {
+                "name": "searchTEXT",
+                "value": "Mobile"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:28"
+          },
+          "name": "type \"Mobile\" in searchbox",
+          "result": {
+            "duration": 10.174070596694946,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:36"
+          },
+          "name": "click on search button",
+          "result": {
+            "duration": 5.071351051330566,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:41"
+          },
+          "name": "click on product name",
+          "result": {
+            "duration": 2.2624282836914062,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:48"
+          },
+          "name": "switch to new window",
+          "result": {
+            "duration": 0.012964725494384766,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:54"
+          },
+          "name": "check diffrent images of the product",
+          "result": {
+            "duration": 15.567642211914062,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:12",
+          "match": {
+            "arguments": [
+              {
+                "name": "pincode",
+                "value": "450001"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:60"
+          },
+          "name": "Give \"450001\"",
+          "result": {
+            "duration": 12.230006694793701,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:65"
+          },
+          "name": "click on check",
+          "result": {
+            "duration": 16.15473508834839,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:69"
+          },
+          "name": "click on wishlist",
+          "result": {
+            "duration": 5.571138858795166,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:15",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:74"
+          },
+          "name": "click on read more in specifactions",
+          "result": {
+            "duration": 3.293605089187622,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario Outline",
+      "location": "features/ElecrProduct.feature:21",
+      "name": "Verify section in Electronics product -- @1.2 ",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/ElecrProduct.feature:3",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:7"
+          },
+          "name": "we navigate to Flipkart url",
+          "result": {
+            "duration": 33.441343545913696,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "number",
+                "value": "6266739954"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:13"
+          },
+          "name": "we type in the \"6266739954\" edit box",
+          "result": {
+            "duration": 10.1159827709198,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:5",
+          "match": {
+            "arguments": [
+              {
+                "name": "password",
+                "value": "Rudresh@123"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:18"
+          },
+          "name": "we type in the \"Rudresh@123\" field",
+          "result": {
+            "duration": 10.099186658859253,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:23"
+          },
+          "name": "we click on the login button",
+          "result": {
+            "duration": 5.056343078613281,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:7",
+          "match": {
+            "arguments": [
+              {
+                "name": "searchTEXT",
+                "value": "TV"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:28"
+          },
+          "name": "type \"TV\" in searchbox",
+          "result": {
+            "duration": 10.131962776184082,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:36"
+          },
+          "name": "click on search button",
+          "result": {
+            "duration": 5.077980041503906,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:41"
+          },
+          "name": "click on product name",
+          "result": {
+            "duration": 1.5036373138427734,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:48"
+          },
+          "name": "switch to new window",
+          "result": {
+            "duration": 0.01296377182006836,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:54"
+          },
+          "name": "check diffrent images of the product",
+          "result": {
+            "duration": 14.898480415344238,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:12",
+          "match": {
+            "arguments": [
+              {
+                "name": "pincode",
+                "value": "450001"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:60"
+          },
+          "name": "Give \"450001\"",
+          "result": {
+            "duration": 12.209520101547241,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:65"
+          },
+          "name": "click on check",
+          "result": {
+            "duration": 0.0,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:69"
+          },
+          "name": "click on wishlist",
+          "result": {
+            "duration": 5.593888521194458,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:15",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:74"
+          },
+          "name": "click on read more in specifactions",
+          "result": {
+            "duration": 3.3169620037078857,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario Outline",
+      "location": "features/ElecrProduct.feature:22",
+      "name": "Verify section in Electronics product -- @1.3 ",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/ElecrProduct.feature:3",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:7"
+          },
+          "name": "we navigate to Flipkart url",
+          "result": {
+            "duration": 25.315320253372192,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "number",
+                "value": "6266739954"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:13"
+          },
+          "name": "we type in the \"6266739954\" edit box",
+          "result": {
+            "duration": 10.12174940109253,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:5",
+          "match": {
+            "arguments": [
+              {
+                "name": "password",
+                "value": "Rudresh@123"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:18"
+          },
+          "name": "we type in the \"Rudresh@123\" field",
+          "result": {
+            "duration": 10.11941146850586,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:23"
+          },
+          "name": "we click on the login button",
+          "result": {
+            "duration": 5.05296516418457,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:7",
+          "match": {
+            "arguments": [
+              {
+                "name": "searchTEXT",
+                "value": "Laptop"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:28"
+          },
+          "name": "type \"Laptop\" in searchbox",
+          "result": {
+            "duration": 10.138749837875366,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:36"
+          },
+          "name": "click on search button",
+          "result": {
+            "duration": 5.088839292526245,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:41"
+          },
+          "name": "click on product name",
+          "result": {
+            "duration": 1.2855606079101562,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:48"
+          },
+          "name": "switch to new window",
+          "result": {
+            "duration": 0.013962030410766602,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:54"
+          },
+          "name": "check diffrent images of the product",
+          "result": {
+            "duration": 10.839234352111816,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:12",
+          "match": {
+            "arguments": [
+              {
+                "name": "pincode",
+                "value": "450001"
+              }
+            ],
+            "location": "features/steps/ElecProductfeature.py:60"
+          },
+          "name": "Give \"450001\"",
+          "result": {
+            "duration": 12.203134298324585,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/ElecrProduct.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:65"
+          },
+          "name": "click on check",
+          "result": {
+            "duration": 0.0,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:69"
+          },
+          "name": "click on wishlist",
+          "result": {
+            "duration": 5.568341970443726,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/ElecrProduct.feature:15",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/ElecProductfeature.py:74"
+          },
+          "name": "click on read more in specifactions",
+          "result": {
+            "duration": 3.3053629398345947,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/ElecrProduct.feature:1",
+  "name": "Electronics product",
+  "status": "passed",
+  "tags": []
+}
+]
