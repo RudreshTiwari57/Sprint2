@@ -18,39 +18,39 @@ class BaseSettingsPage:
     # KeyWord Driver approach
     def TypeEditBox(self, locator, typeValue):
         if str(locator).endswith("_ID"):
-            time.sleep(5)
+            time.sleep(3)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.ID, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).click()
-            time.sleep(5)
+            # time.sleep(5)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.ID, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
         elif str(locator).endswith("_NAME"):
-            time.sleep(5)
+            time.sleep(3)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.NAME, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).click()
-            time.sleep(5)
+            # time.sleep(5)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.NAME, configreader.ConfigReader("locators", locator))))
 
             self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
         elif str(locator).endswith("_CLASS"):
-            time.sleep(5)
+            time.sleep(3)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.CLASS_NAME, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).click()
-            time.sleep(5)
+            # time.sleep(5)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.CLASS_NAME, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
         elif str(locator).endswith("_XPATH"):
-            time.sleep(5)
+            time.sleep(3)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.XPATH,configreader.ConfigReader("locators", locator ))))
             self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).click()
-            time.sleep(5)
+            # time.sleep(5)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.XPATH, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
         elif str(locator).endswith("_CSSSELECTOR"):
-            time.sleep(5)
+            time.sleep(3)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.CSS_SELECTOR, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).click()
-            time.sleep(5)
+            # time.sleep(5)
             WebDriverWait(self.driver, 40, ignored_exceptions=[StaleElementReferenceException]).until(EC.presence_of_element_located((By.CSS_SELECTOR, configreader.ConfigReader("locators", locator))))
             self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
 

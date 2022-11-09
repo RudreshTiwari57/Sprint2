@@ -76,12 +76,12 @@ class ELEC_Product(BaseSettingsPage):
         if len(AA)>5:
             while count<=5:
                 AA[count].click()
-                time.sleep(2)
+                time.sleep(5)
                 count+= 1
         else:
             for i in AA:
                 i.click()
-                time.sleep(2)
+                time.sleep(5)
 
 
 
@@ -95,26 +95,31 @@ class ELEC_Product(BaseSettingsPage):
 
 
     def Click_oncheck(self,lk):
-        if lk == "Mobile":
-            self.DynamicImplicitWait(40)
-            time.sleep(3)
-            self.ClickButton("CHECKBUTTON_CSSSELECTOR")
+        # if lk == "Mobile":
+        #     self.DynamicImplicitWait(40)
+        #     time.sleep(3)
+        #     self.ClickButton("CHECKBUTTON_CSSSELECTOR")
+        #
+        # if lk == "tv":
+        #     self.DynamicImplicitWait(40)
+        #     time.sleep(3)
+        #     self.ClickButton("CHECKBUTTONTV_CSSSELECTOR")
+        #
+        # if lk == "laptop":
+        #     self.DynamicImplicitWait(40)
+        #     time.sleep(3)
+        #     self.ClickButton("CHECKBUTTONlaptop_CSSSELECTOR")
+        #
+        #
+        # if lk == "Mobile":
+        #     self.DynamicImplicitWait(40)
+        #     time.sleep(3)
+        #     self.ClickButton("CHECKBUTTON_CSSSELECTOR")
 
-        if lk == "tv":
-            self.DynamicImplicitWait(40)
-            time.sleep(3)
-            self.ClickButton("CHECKBUTTONTV_CSSSELECTOR")
-
-        if lk == "laptop":
-            self.DynamicImplicitWait(40)
-            time.sleep(3)
-            self.ClickButton("CHECKBUTTONlaptop_CSSSELECTOR")
-
-
-        if lk == "Mobile":
-            self.DynamicImplicitWait(40)
-            time.sleep(3)
-            self.ClickButton("CHECKBUTTON_CSSSELECTOR")
+        self.DynamicImplicitWait(40)
+        time.sleep(3)
+        self.driver.find_element(By.CLASS_NAME,"_2P_LDn").click()
+        # self.ClickButton("CHECKBUTTONTV_CLASSNAME")
 
 
 

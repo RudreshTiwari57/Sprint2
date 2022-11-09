@@ -27,6 +27,7 @@ class SEARCH(BaseSettingsPage):
     def text_Searchbar(self, searchTEXT):
         global lk
         lk = searchTEXT
+        time.sleep(5)
         self.DynamicImplicitWait(40)
         self.TypeEditBox("SEARCHBAR_XPATH", searchTEXT)
 
