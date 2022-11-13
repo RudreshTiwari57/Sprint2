@@ -125,7 +125,7 @@ class ELEC_Product(BaseSettingsPage):
 
 
     def CLick_WISHLIST(self):
-        #self.driver = webdriver.Chrome(ChromeDriverManager().install())
+        #self.driver = webdriver.Chrome(ChromeDriverManager().install() )
         self.DynamicImplicitWait(40)
         self.driver.execute_script("window.scrollBy(0,-400)")
         time.sleep(5)
