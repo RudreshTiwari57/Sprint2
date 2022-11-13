@@ -16,7 +16,7 @@
           },
           "name": "we navigate to Flipkart url",
           "result": {
-            "duration": 23.5228533744812,
+            "duration": 22.943238735198975,
             "status": "passed"
           },
           "step_type": "given"
@@ -35,7 +35,7 @@
           },
           "name": "we type in the \"6266739954\" edit box",
           "result": {
-            "duration": 3.0875556468963623,
+            "duration": 3.093872547149658,
             "status": "passed"
           },
           "step_type": "then"
@@ -54,7 +54,7 @@
           },
           "name": "we type in the \"Rudresh@123\" field",
           "result": {
-            "duration": 3.1017303466796875,
+            "duration": 3.0819687843322754,
             "status": "passed"
           },
           "step_type": "then"
@@ -68,7 +68,7 @@
           },
           "name": "we click on the login button",
           "result": {
-            "duration": 5.075757741928101,
+            "duration": 5.061483144760132,
             "status": "passed"
           },
           "step_type": "then"
@@ -87,7 +87,7 @@
           },
           "name": "type \"Mobile\" in searchbox",
           "result": {
-            "duration": 8.157165765762329,
+            "duration": 8.122358322143555,
             "status": "passed"
           },
           "step_type": "then"
@@ -101,7 +101,7 @@
           },
           "name": "click on search button",
           "result": {
-            "duration": 5.072150230407715,
+            "duration": 5.079590320587158,
             "status": "passed"
           },
           "step_type": "then"
@@ -115,7 +115,7 @@
           },
           "name": "click on product name",
           "result": {
-            "duration": 0.6538467407226562,
+            "duration": 0.6506073474884033,
             "status": "passed"
           },
           "step_type": "then"
@@ -129,7 +129,7 @@
           },
           "name": "switch to new window",
           "result": {
-            "duration": 0.011963129043579102,
+            "duration": 0.014962434768676758,
             "status": "passed"
           },
           "step_type": "then"
@@ -143,7 +143,7 @@
           },
           "name": "check diffrent images of the product",
           "result": {
-            "duration": 36.573872089385986,
+            "duration": 32.20914053916931,
             "status": "passed"
           },
           "step_type": "then"
@@ -162,7 +162,7 @@
           },
           "name": "Give \"450001\"",
           "result": {
-            "duration": 5.1976540088653564,
+            "duration": 5.163277626037598,
             "status": "passed"
           },
           "step_type": "then"
@@ -176,7 +176,7 @@
           },
           "name": "click on check",
           "result": {
-            "duration": 3.0515801906585693,
+            "duration": 3.064173936843872,
             "status": "passed"
           },
           "step_type": "then"
@@ -190,7 +190,7 @@
           },
           "name": "click on wishlist",
           "result": {
-            "duration": 5.573247671127319,
+            "duration": 5.579874515533447,
             "status": "passed"
           },
           "step_type": "then"
@@ -204,7 +204,7 @@
           },
           "name": "click on read more in specifactions",
           "result": {
-            "duration": 3.347761631011963,
+            "duration": 3.30666184425354,
             "status": "passed"
           },
           "step_type": "then"
@@ -228,7 +228,7 @@
           },
           "name": "we navigate to Flipkart url",
           "result": {
-            "duration": 23.48050594329834,
+            "duration": 60.3619167804718,
             "status": "passed"
           },
           "step_type": "given"
@@ -247,7 +247,7 @@
           },
           "name": "we type in the \"6266739954\" edit box",
           "result": {
-            "duration": 3.10537052154541,
+            "duration": 3.1017754077911377,
             "status": "passed"
           },
           "step_type": "then"
@@ -266,7 +266,7 @@
           },
           "name": "we type in the \"Rudresh@123\" field",
           "result": {
-            "duration": 3.098188877105713,
+            "duration": 3.112684965133667,
             "status": "passed"
           },
           "step_type": "then"
@@ -280,7 +280,7 @@
           },
           "name": "we click on the login button",
           "result": {
-            "duration": 5.054784297943115,
+            "duration": 5.066452741622925,
             "status": "passed"
           },
           "step_type": "then"
@@ -299,7 +299,7 @@
           },
           "name": "type \"TV\" in searchbox",
           "result": {
-            "duration": 8.169816970825195,
+            "duration": 8.123071432113647,
             "status": "passed"
           },
           "step_type": "then"
@@ -313,7 +313,7 @@
           },
           "name": "click on search button",
           "result": {
-            "duration": 5.0687971115112305,
+            "duration": 5.065103054046631,
             "status": "passed"
           },
           "step_type": "then"
@@ -327,7 +327,7 @@
           },
           "name": "click on product name",
           "result": {
-            "duration": 0.6076576709747314,
+            "duration": 1.0681028366088867,
             "status": "passed"
           },
           "step_type": "then"
@@ -341,7 +341,7 @@
           },
           "name": "switch to new window",
           "result": {
-            "duration": 0.011965751647949219,
+            "duration": 0.00997304916381836,
             "status": "passed"
           },
           "step_type": "then"
@@ -355,7 +355,7 @@
           },
           "name": "check diffrent images of the product",
           "result": {
-            "duration": 31.429200172424316,
+            "duration": 32.545265197753906,
             "status": "passed"
           },
           "step_type": "then"
@@ -374,7 +374,7 @@
           },
           "name": "Give \"450001\"",
           "result": {
-            "duration": 5.159257888793945,
+            "duration": 5.165412425994873,
             "status": "passed"
           },
           "step_type": "then"
@@ -388,7 +388,7 @@
           },
           "name": "click on check",
           "result": {
-            "duration": 3.0612385272979736,
+            "duration": 3.054266929626465,
             "status": "passed"
           },
           "step_type": "then"
@@ -402,7 +402,7 @@
           },
           "name": "click on wishlist",
           "result": {
-            "duration": 5.56670355796814,
+            "duration": 5.583241701126099,
             "status": "passed"
           },
           "step_type": "then"
@@ -416,7 +416,7 @@
           },
           "name": "click on read more in specifactions",
           "result": {
-            "duration": 3.3055777549743652,
+            "duration": 3.3347742557525635,
             "status": "passed"
           },
           "step_type": "then"
@@ -440,7 +440,7 @@
           },
           "name": "we navigate to Flipkart url",
           "result": {
-            "duration": 24.104084730148315,
+            "duration": 30.529335737228394,
             "status": "passed"
           },
           "step_type": "given"
@@ -459,7 +459,7 @@
           },
           "name": "we type in the \"6266739954\" edit box",
           "result": {
-            "duration": 3.1426074504852295,
+            "duration": 3.0968117713928223,
             "status": "passed"
           },
           "step_type": "then"
@@ -478,7 +478,7 @@
           },
           "name": "we type in the \"Rudresh@123\" field",
           "result": {
-            "duration": 3.0911221504211426,
+            "duration": 3.0887882709503174,
             "status": "passed"
           },
           "step_type": "then"
@@ -492,7 +492,7 @@
           },
           "name": "we click on the login button",
           "result": {
-            "duration": 5.065429210662842,
+            "duration": 5.048141717910767,
             "status": "passed"
           },
           "step_type": "then"
@@ -511,7 +511,7 @@
           },
           "name": "type \"Laptop\" in searchbox",
           "result": {
-            "duration": 8.136846542358398,
+            "duration": 8.112138986587524,
             "status": "passed"
           },
           "step_type": "then"
@@ -525,7 +525,7 @@
           },
           "name": "click on search button",
           "result": {
-            "duration": 5.062527179718018,
+            "duration": 5.062666654586792,
             "status": "passed"
           },
           "step_type": "then"
@@ -539,7 +539,7 @@
           },
           "name": "click on product name",
           "result": {
-            "duration": 0.827141284942627,
+            "duration": 0.8688445091247559,
             "status": "passed"
           },
           "step_type": "then"
@@ -553,7 +553,7 @@
           },
           "name": "switch to new window",
           "result": {
-            "duration": 0.021941184997558594,
+            "duration": 0.013962984085083008,
             "status": "passed"
           },
           "step_type": "then"
@@ -567,7 +567,7 @@
           },
           "name": "check diffrent images of the product",
           "result": {
-            "duration": 32.89777684211731,
+            "duration": 34.82809114456177,
             "status": "passed"
           },
           "step_type": "then"
@@ -586,7 +586,7 @@
           },
           "name": "Give \"450001\"",
           "result": {
-            "duration": 5.170630216598511,
+            "duration": 5.193973779678345,
             "status": "passed"
           },
           "step_type": "then"
@@ -600,7 +600,7 @@
           },
           "name": "click on check",
           "result": {
-            "duration": 3.0549538135528564,
+            "duration": 3.057882308959961,
             "status": "passed"
           },
           "step_type": "then"
@@ -614,7 +614,7 @@
           },
           "name": "click on wishlist",
           "result": {
-            "duration": 5.5794289112091064,
+            "duration": 5.574073076248169,
             "status": "passed"
           },
           "step_type": "then"
@@ -628,7 +628,7 @@
           },
           "name": "click on read more in specifactions",
           "result": {
-            "duration": 3.3446574211120605,
+            "duration": 3.3219363689422607,
             "status": "passed"
           },
           "step_type": "then"
