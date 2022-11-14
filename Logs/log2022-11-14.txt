@@ -1,0 +1,147 @@
+2022-11-14 09:53:42,539 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 09:53:45,676 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 09:53:48,812 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 09:53:53,905 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 09:54:02,054 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 09:54:07,209 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 09:54:08,098 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 09:54:08,114 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 09:54:43,164 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 09:54:48,486 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 09:54:51,610 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 09:54:57,267 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 09:55:00,653 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 09:55:51,731 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 09:55:54,853 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 09:55:58,021 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 09:56:03,158 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 09:56:11,338 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 09:56:16,406 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 09:56:17,215 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 09:56:17,223 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 09:56:52,185 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 09:56:57,558 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 09:57:00,657 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 09:57:06,261 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 09:57:09,669 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 09:58:00,490 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 09:58:03,611 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 09:58:06,782 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 09:58:11,859 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 09:59:13,537 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 09:59:16,658 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 09:59:19,818 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 09:59:24,928 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 09:59:33,103 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 09:59:38,200 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 09:59:38,934 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 09:59:38,950 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:00:14,037 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:00:19,294 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:00:22,395 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:00:28,032 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:00:31,361 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:01:22,359 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:01:25,480 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:01:28,656 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:01:33,780 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:01:41,965 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:01:47,080 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:01:47,864 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:01:47,880 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:02:20,128 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:02:25,472 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:02:28,629 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:02:34,257 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:02:37,605 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:03:15,895 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:03:19,017 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:03:22,145 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:03:27,225 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:03:35,391 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:03:40,492 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:03:41,316 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:03:41,332 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:04:13,628 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:04:18,951 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:04:22,047 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:04:27,670 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:04:31,051 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:06:34,651 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:06:37,786 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:06:40,901 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:06:45,968 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:06:54,164 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:06:59,333 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:07:00,174 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:07:00,190 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:07:33,181 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:07:38,535 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:07:41,648 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:07:47,291 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:07:50,628 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:08:21,182 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:08:24,318 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:08:27,441 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:08:32,545 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:08:40,700 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:08:45,778 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:08:46,683 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:08:46,699 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:09:18,778 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:09:24,093 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:09:27,206 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:09:32,830 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:09:36,209 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:10:22,125 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:10:25,269 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:10:28,405 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:10:33,566 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:10:41,764 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:10:46,868 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:10:47,645 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:10:47,661 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:11:20,637 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:11:25,985 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:11:29,099 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:11:34,777 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:11:38,242 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:12:09,880 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:12:13,102 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:12:16,222 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:12:21,354 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:12:29,543 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:12:34,645 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:12:35,485 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:12:35,501 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:13:08,000 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:13:13,388 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:13:16,524 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:13:22,125 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:13:25,614 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:13:58,212 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:14:01,355 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:14:04,501 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:14:09,590 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:14:17,766 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:14:22,869 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:14:23,717 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:14:23,733 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:14:55,909 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:15:01,249 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:15:04,363 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:15:09,961 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:15:13,378 - ElecProductfeature.py:[96] - [INFO] - click read more in specification
+2022-11-14 10:16:04,387 - ElecProductfeature.py:[15] - [INFO] - opening filpkart home page
+2022-11-14 10:16:07,531 - ElecProductfeature.py:[22] - [INFO] - Entering number
+2022-11-14 10:16:10,707 - ElecProductfeature.py:[28] - [INFO] - Entering password
+2022-11-14 10:16:15,780 - ElecProductfeature.py:[34] - [INFO] - Click login
+2022-11-14 10:16:23,956 - ElecProductfeature.py:[43] - [INFO] - Enter text on search bar
+2022-11-14 10:16:29,056 - ElecProductfeature.py:[50] - [INFO] - Click search button
+2022-11-14 10:16:29,905 - ElecProductfeature.py:[58] - [INFO] - Click on product
+2022-11-14 10:16:29,921 - ElecProductfeature.py:[66] - [INFO] - switching window
+2022-11-14 10:17:02,144 - ElecProductfeature.py:[72] - [INFO] - verifing images
+2022-11-14 10:17:07,489 - ElecProductfeature.py:[79] - [INFO] - Entering pincode
+2022-11-14 10:17:10,617 - ElecProductfeature.py:[85] - [INFO] - Click on check
+2022-11-14 10:17:16,260 - ElecProductfeature.py:[90] - [INFO] - Click on wishlist icon
+2022-11-14 10:17:19,726 - ElecProductfeature.py:[96] - [INFO] - click read more in specification

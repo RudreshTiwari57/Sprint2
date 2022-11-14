@@ -46,11 +46,4 @@ def after_scenario(context, driver):
     context.driver.quit()
 
 
-def before_feature(context, feature):
-    if 'test-data-from-excel' in feature.tags:  # >>> you can have this check on feature.name instead of tag
-        path_to_file = 'C:\\elecproduvt\\Excel\\data.xlsx'
-        df = pd.read_excel(path_to_file)
-        example = next(sc.examples[0] for sc in feature.scenarios if sc.name == 'login data') # >>> find the first examples object for scenario with given name
-        test_table = example.table
-        for row in df.itertuples(index=False):
-            test_table.add_row(row)
+
